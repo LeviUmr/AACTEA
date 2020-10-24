@@ -10,7 +10,12 @@ Versão de compatibilidade a partir do android 5.1
 
 ### - Aplicativo Android
 
-### - 
+### - Manter a **Documentação** atualizada a cada alteração
+
+## Objetivo da Documentação
+
+Principalmente servir como mapa de Pastas do repositório e 
+Registrar cada passo do projeto.
 
 
 ## Marcações
